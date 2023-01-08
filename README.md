@@ -1,2 +1,2 @@
 # Sritha-s-Academic-Projects
-All the academic projects done by Sritha D during her Masters at UNT
+My academic projects done during my Masters at UNT
